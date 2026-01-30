@@ -6,7 +6,7 @@
       {
         "id": "6e60c571cd48c529",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 47.84688995215311,
         "children": [
           {
             "id": "28b90adae1eabf78",
@@ -14,9 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sesiones/20260129_sesion_2/README.md",
+                "file": "Proyecto Creativeaplications/README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "README"
@@ -25,18 +25,18 @@
         ]
       },
       {
-        "id": "c6d0aa40279493dc",
+        "id": "8f45528d8f95446f",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 52.15311004784689,
         "children": [
           {
-            "id": "350bba5b763f0639",
+            "id": "0764e0498ab59676",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
+              "icon": "slides",
+              "title": "Preview: README.md"
             }
           }
         ]
@@ -185,11 +185,15 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "slides-extended:Show Slide Preview": false
+      "slides-extended:Show Slide Preview": false,
+      "slides-extended:Show slide preview": false
     }
   },
-  "active": "5d665c478dee3697",
+  "active": "28b90adae1eabf78",
   "lastOpenFiles": [
+    "README.md",
+    "Proyecto Creativeaplications/README.md",
+    "Sin título.md",
     "sesiones/20260128_sesion_1/README.md",
     "sesiones/20260129_sesion_2/README.md",
     "referencias/teoria_critica/datos-y-sociedad/textos/README.md",
@@ -212,7 +216,6 @@
     "proyectos/proyecto _final-guia/ideas/README.md",
     "proyectos/proyecto _final-guia/README.md.md",
     "referencias/teoria_tecnica/README.md",
-    "README.md",
     "referencias/teoria_tecnica/dataVizs/videos/README.md",
     "proyectos/README.md",
     "proyectos/de la observacion al dato/README.md",
@@ -220,8 +223,6 @@
     "Sesión 8 - Presentación de proyecto.md",
     "sesiones/20260305_sesion_8/README.md",
     "sesiones/20260302_sesion_7/README.md",
-    "sesiones/20260226_sesion_6/README.md",
-    "sesiones/20260225_sesion_5/README.md",
     "proyectos/de la observacion al dato",
     "proyectos/agasso.Uf7xnXZo.mp4.part",
     "proyectos/agasso.mp4",
