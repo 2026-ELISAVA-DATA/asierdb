@@ -1,4 +1,4 @@
-Selección de Proyectos interesantes de [*Creativeaplications*](https://www.creativeapplications.net/)
+### Selección de Proyectos interesantes de [*Creativeaplications*](https://www.creativeapplications.net/)
 <p align="right">02/02/2026</p>
 ---
 ### [Submirror](https://www.creativeapplications.net/project/submirror-self-perception-loss-of-control-and-digital-puppetry/) – Autopercepción, pérdida de control y marionetas digitales
