@@ -6,7 +6,6 @@
       {
         "id": "6e60c571cd48c529",
         "type": "tabs",
-        "dimension": 47.84688995215311,
         "children": [
           {
             "id": "28b90adae1eabf78",
@@ -25,12 +24,11 @@
         ]
       },
       {
-        "id": "8f45528d8f95446f",
+        "id": "b1b8a497a10917df",
         "type": "tabs",
-        "dimension": 52.15311004784689,
         "children": [
           {
-            "id": "0764e0498ab59676",
+            "id": "cc3e22092a904e90",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -185,15 +183,15 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "slides-extended:Show Slide Preview": false,
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "28b90adae1eabf78",
+  "active": "5d665c478dee3697",
   "lastOpenFiles": [
-    "Pasted image 20260130192045.jpg",
-    "Pasted image 20260130191846.jpg",
-    "Pasted image 20260130185405.jpg",
+    "Proyecto Creativeaplications/Pasted image 20260130185405 1.jpg",
+    "Proyecto Creativeaplications/Pasted image 20260130192045.jpg",
+    "Proyecto Creativeaplications/Pasted image 20260130191846.jpg",
+    "Proyecto Creativeaplications/Pasted image 20260130185405.jpg",
     "README.md",
     "Proyecto Creativeaplications/README.md",
     "Sin título.md",
@@ -235,7 +233,6 @@
     "referencias/teoria_tecnica/processing/assets/matt_pearson.jpg",
     "referencias/teoria_tecnica/processing/assets/creative-coding.jpg",
     "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona03/data/otra.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona03/data/bkg.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona02_nulas/data/otra.jpg"
+    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona03/data/bkg.jpg"
   ]
 }
