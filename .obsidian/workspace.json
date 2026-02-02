@@ -6,6 +6,7 @@
       {
         "id": "6e60c571cd48c529",
         "type": "tabs",
+        "dimension": 50.59808612440191,
         "children": [
           {
             "id": "28b90adae1eabf78",
@@ -26,6 +27,7 @@
       {
         "id": "b1b8a497a10917df",
         "type": "tabs",
+        "dimension": 49.40191387559808,
         "children": [
           {
             "id": "cc3e22092a904e90",
@@ -94,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 346.5
   },
   "right": {
     "id": "59d0d4efaa3c3e9f",
@@ -186,14 +188,25 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "5d665c478dee3697",
+  "active": "28b90adae1eabf78",
   "lastOpenFiles": [
-    "Proyecto Creativeaplications/Pasted image 20260130185405 1.jpg",
-    "Proyecto Creativeaplications/Pasted image 20260130192045.jpg",
-    "Proyecto Creativeaplications/Pasted image 20260130191846.jpg",
-    "Proyecto Creativeaplications/Pasted image 20260130185405.jpg",
     "README.md",
     "Proyecto Creativeaplications/README.md",
+    "Proyecto Creativeaplications/Imagenes/20260130191846.jpg",
+    "Proyecto Creativeaplications/Imagenes/20260130185405.jpg",
+    "Proyecto Creativeaplications/Imagenes/20260130192045.jpg",
+    "Proyecto Creativeaplications/Imagenes/Pasted image 20260130192045.jpg",
+    "Imagenes/Pasted.md",
+    "Imagenes",
+    "imagenes/Pasted.md",
+    "imagenes/Imagen.md",
+    "imagenes",
+    "images/Pated.md",
+    "images",
+    "Proyecto Creativeaplications/Imagenes/Pasted image 20260130185405.jpg",
+    "Proyecto Creativeaplications/Pasted image 20260130185405 1.jpg",
+    "Proyecto Creativeaplications/Imagenes",
+    "Proyecto Creativeaplications/Imagenes/Pasted image 20260130191846.jpg",
     "Sin título.md",
     "sesiones/20260128_sesion_1/README.md",
     "sesiones/20260129_sesion_2/README.md",
@@ -219,20 +232,8 @@
     "referencias/teoria_tecnica/README.md",
     "referencias/teoria_tecnica/dataVizs/videos/README.md",
     "proyectos/README.md",
-    "proyectos/de la observacion al dato/README.md",
-    "sesiones/README.md",
-    "Sesión 8 - Presentación de proyecto.md",
-    "sesiones/20260305_sesion_8/README.md",
-    "proyectos/de la observacion al dato",
-    "proyectos/agasso.Uf7xnXZo.mp4.part",
-    "proyectos/agasso.mp4",
     "proyectos/happiness.png",
     "proyectos/cine.png",
-    "proyectos/proyecto _final-guia",
-    "referencias/teoria_tecnica/processing/concepts/assets/helloworld.jpg",
-    "referencias/teoria_tecnica/processing/assets/matt_pearson.jpg",
-    "referencias/teoria_tecnica/processing/assets/creative-coding.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona03/data/otra.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona03/data/bkg.jpg"
+    "referencias/teoria_tecnica/processing/concepts/assets/helloworld.jpg"
   ]
 }
