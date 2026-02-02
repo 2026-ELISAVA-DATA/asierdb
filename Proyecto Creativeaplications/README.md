@@ -1,7 +1,8 @@
 ### Selección de Proyectos interesantes de [*Creativeaplications*](https://www.creativeapplications.net/)
 <p align="right">02/02/2026</p>
 ---
-### [Submirror](https://www.creativeapplications.net/project/submirror-self-perception-loss-of-control-and-digital-puppetry/) – Autopercepción, pérdida de control y marionetas digitales
+### 
+[Submirror](https://www.creativeapplications.net/project/submirror-self-perception-loss-of-control-and-digital-puppetry/) – Autopercepción, pérdida de control y marionetas digitales
 Es una obra con espejos digitales que manipulan el reflejo del espectador en tiempo real. En lugar de mostrar una imagen fiel, el espejo altera la mirada, los parpadeos o la postura usando código Morse e inteligencia artificial, haciendo que el reflejo actúe por su cuenta. Así, la obra cuestiona cómo la tecnología puede apropiarse de nuestra imagen y representación, generando una sensación de pérdida de control sobre nuestro propio yo.
 
 ![FotoProyecto](Imagenes/20260130192045.jpg)
